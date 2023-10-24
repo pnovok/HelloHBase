@@ -1,4 +1,4 @@
-# Simple Java API code to interact with HBase
+#Java API code to interact with HBase
 
 This is a sample HBase Java API program which will do the following:
 
